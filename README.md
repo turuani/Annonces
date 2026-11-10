@@ -1,7 +1,9 @@
 # Annonces
 
-Carte des appartements à vendre en dernier étage dans le Grand Nancy
-(12 communes, plus de 69 m², 500 000 € maximum, ascenseur et stationnement).
+Cartes interactives de l'immobilier dans le Grand Nancy (12 communes), publiées via GitHub Pages :
 
-Page autonome : `index.html`, publiée via GitHub Pages.
-Sources : annonces Bien'ici et Immobilier des notaires (instantané du 10/11/2026).
+- `index.html` : page d'accueil ;
+- `appartements.html` : appartements à vendre en dernier étage (plus de 69 m², 500 000 € maximum, ascenseur et stationnement) – annonces Bien'ici et Immobilier des notaires du 10/11/2026 ;
+- `programmes.html` : programmes neufs en vente, rattachés aux permis Sitadel – annonces SeLoger Neuf et Plan Immobilier du 09/11/2026.
+
+Chaque page est autonome (données et bibliothèque Leaflet intégrées).
